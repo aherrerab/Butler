@@ -15,3 +15,8 @@
 # Gradle:
 .idea/gradle.xml
 .idea/libraries
+
+# Built application files
+*.apk
+*.ap_
+
