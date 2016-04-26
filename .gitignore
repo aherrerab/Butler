@@ -2,7 +2,16 @@
 .gradle
 /local.properties
 /.idea/workspace.xml
-/.idea/libraries
 .DS_Store
 /build
 /captures
+
+# User-specific stuff:
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
